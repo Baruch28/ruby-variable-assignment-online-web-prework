@@ -2,11 +2,13 @@
 
 ## Objectives
 
+greeting = "Hello World"
+
 1. Assign a local variable.
 
 ## Instructions
 
-You will assign a local variable named `greeting` that is equal to `"Hello World"`.
+You will assign a local variable named greeting abd set it up to "Hello World"`.
 
 You should first make sure the test suite is running correctly by running `learn`.
 
